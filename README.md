@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/LATAM-Support-red?style=for-the-badge">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aegogalaxylatam/Welcome/refs/heads/main/img/lucario.png" alt="Banner del Proyecto" width="20%">
+  <img src="https://raw.githubusercontent.com/aegogalaxylatam/aegogalaxylatam/refs/heads/main/img/lucario.png" alt="Banner del Proyecto" width="20%">
 </p>
 
 
@@ -46,7 +46,7 @@
 ## 🖼️ Capturas
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aegogalaxylatam/Welcome/refs/heads/main/img/lucarioloading.gif" width="25%" />
+  <img src="https://raw.githubusercontent.com/aegogalaxylatam/aegogalaxylatam/refs/heads/main/img/lucarioloading.gif" width="25%" />
   
 </p>
 
@@ -59,7 +59,7 @@
 
 1. Comparte nuestras redes, visita nuestra web 🎉
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aegogalaxylatam/Welcome/refs/heads/main/img/Pikachu%201.gif" alt="Banner del Proyecto" width="10%">
+  <img src="https://raw.githubusercontent.com/aegogalaxylatam/aegogalaxylatam/refs/heads/main/img/Pikachu%201.gif" alt="Banner del Proyecto" width="10%">
 </p>
 
 > 🎥 También puedes apoyar con un café / paypal.
@@ -73,7 +73,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aegogalaxylatam/Welcome/refs/heads/main/img/pikachu.gif" width="220">
+  <img src="https://raw.githubusercontent.com/aegogalaxylatam/aegogalaxylatam/refs/heads/main/img/pikachu.gif" width="220">
 </p>
 
 <p align="center">
